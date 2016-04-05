@@ -1,0 +1,70 @@
+.gris {
+	color: #85878C;
+}
+
+/* banner */
+.banner {
+	background: url(../img/dance_1.jpg);
+	height: 500px;
+}
+
+.banner h1 {
+	font-size: 80px;
+}
+
+.text-banner {
+	margin-top: 70px;
+	margin-left: 140px;
+}
+
+.banner p {
+	margin-top: 25px;
+	padding-right: 160px;
+	line-height: 25px;
+	margin-bottom: 40px;
+}
+
+.banner a{
+	background-color: #0B0D1E;
+	height: 40px;
+	padding: 15px 20px;
+	margin-left: -10px;
+}
+
+/*oferta*/
+.oferta {
+	background: url(../img/textura_2.jpg);
+	height: 400px;
+}
+
+.oferta p {
+	font-size: 25px;
+	padding: 60px 270px 0 270px;
+}
+
+.oferta img {
+	margin-top: -80px;
+	width: 150px;
+	margin: 0 auto;
+}
+
+.buttom-2 {
+    background-color: #252B5F;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+/*instructores*/
+.instructores {
+	height: 300px;
+}
+
+.profesora {
+	border: 2px solid #252B5F;
+	height: 500px;
+}
+
+
+

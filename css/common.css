@@ -1,0 +1,14 @@
+/*estilos header*/
+header {
+	margin-top: 30px;
+}
+
+header li{
+	display: inline-block;
+	color: #7E819B;
+	padding: 25px 30px;
+}
+
+header p{
+	font-size: 20px;
+}
